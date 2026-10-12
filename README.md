@@ -142,3 +142,7 @@ This release tightens the boundary between collection and analyst interpretation
 - installer preserves existing `cases/` when upgrading an installed skill.
 
 For transfer to another machine, read `MIGRATION.md` before installing. API credentials are intentionally not included in the ZIP.
+
+## Portfolio & Professional Services
+
+Explore my Linux infrastructure, cybersecurity, and AI automation work: [ta551.info](https://ta551.info/).
